@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://ak.picdn.net/shutterstock/videos/20823079/thumb/1.jpg");
+    font-family:cursive;
+    font-size: 22px;
+    background-size: cover;
+    background-position: center;
+
+}
+#image_results
+{
+    box-shadow: 8px 8px 8px black;
+    border-style:groove;
+    border-width: 9px;
+    border-radius: 5px;;
+}
+#heading
+{
+    font-size: 33px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: bold;
+}
